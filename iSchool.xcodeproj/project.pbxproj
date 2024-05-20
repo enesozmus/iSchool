@@ -12,6 +12,7 @@
 		DF23A0062BFBC62600B496C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF23A0052BFBC62600B496C0 /* Assets.xcassets */; };
 		DF23A0092BFBC62600B496C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF23A0082BFBC62600B496C0 /* Preview Assets.xcassets */; };
 		DF23A0112BFBC6B500B496C0 /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DF23A00F2BFBC6B500B496C0 /* DataModel.xcdatamodeld */; };
+		DFA477BC2BFBC9470041323C /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA477BB2BFBC9470041323C /* CoreDataStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		DF23A0052BFBC62600B496C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF23A0082BFBC62600B496C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DF23A0102BFBC6B500B496C0 /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
+		DFA477BB2BFBC9470041323C /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				DF23A0052BFBC62600B496C0 /* Assets.xcassets */,
 				DF23A0032BFBC62500B496C0 /* ContentView.swift */,
+				DFA477BB2BFBC9470041323C /* CoreDataStack.swift */,
 				DF23A00F2BFBC6B500B496C0 /* DataModel.xcdatamodeld */,
 				DF23A0072BFBC62600B496C0 /* Preview Content */,
 				DFA477BA2BFBC8A40041323C /* Root */,
@@ -151,6 +154,7 @@
 				DF23A0112BFBC6B500B496C0 /* DataModel.xcdatamodeld in Sources */,
 				DF23A0042BFBC62500B496C0 /* ContentView.swift in Sources */,
 				DF23A0022BFBC62500B496C0 /* iSchoolApp.swift in Sources */,
+				DFA477BC2BFBC9470041323C /* CoreDataStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
