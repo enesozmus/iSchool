@@ -43,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				DF23A0002BFBC62500B496C0 /* iSchool */,
+				DF0FB0612BFCC1580019FE1B /* README.md */,
 				DF239FFF2BFBC62500B496C0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -65,7 +66,6 @@
 				DF23A00F2BFBC6B500B496C0 /* DataModel.xcdatamodeld */,
 				DF23A0072BFBC62600B496C0 /* Preview Content */,
 				DFA477BA2BFBC8A40041323C /* Root */,
-				DF0FB0612BFCC1580019FE1B /* README.md */,
 			);
 			path = iSchool;
 			sourceTree = "<group>";
