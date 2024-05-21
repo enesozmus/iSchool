@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF0FB0602BFCB3620019FE1B /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0FB05F2BFCB3620019FE1B /* DetailView.swift */; };
 		DF23A0022BFBC62500B496C0 /* iSchoolApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF23A0012BFBC62500B496C0 /* iSchoolApp.swift */; };
 		DF23A0042BFBC62500B496C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF23A0032BFBC62500B496C0 /* ContentView.swift */; };
 		DF23A0062BFBC62600B496C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF23A0052BFBC62600B496C0 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF0FB05F2BFCB3620019FE1B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		DF239FFE2BFBC62500B496C0 /* iSchool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iSchool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF23A0012BFBC62500B496C0 /* iSchoolApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iSchoolApp.swift; sourceTree = "<group>"; };
 		DF23A0032BFBC62500B496C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				DF23A0052BFBC62600B496C0 /* Assets.xcassets */,
 				DF23A0032BFBC62500B496C0 /* ContentView.swift */,
+				DF0FB05F2BFCB3620019FE1B /* DetailView.swift */,
 				DFA477BB2BFBC9470041323C /* CoreDataStack.swift */,
 				DF23A00F2BFBC6B500B496C0 /* DataModel.xcdatamodeld */,
 				DF23A0072BFBC62600B496C0 /* Preview Content */,
@@ -154,6 +157,7 @@
 				DF23A0112BFBC6B500B496C0 /* DataModel.xcdatamodeld in Sources */,
 				DF23A0042BFBC62500B496C0 /* ContentView.swift in Sources */,
 				DF23A0022BFBC62500B496C0 /* iSchoolApp.swift in Sources */,
+				DF0FB0602BFCB3620019FE1B /* DetailView.swift in Sources */,
 				DFA477BC2BFBC9470041323C /* CoreDataStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

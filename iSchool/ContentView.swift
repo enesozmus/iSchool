@@ -23,7 +23,8 @@ struct ContentView: View {
                     List {
                         ForEach(schools) { school in
                             NavigationLink {
-                                Text("DetailView")
+                                //Text("DetailView")
+                                DetailView(school: school)
                             } label: {
                                 VStack(alignment: .leading) {
                                     Text(school.name ?? "")
