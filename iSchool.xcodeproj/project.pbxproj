@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		DF0FB05F2BFCB3620019FE1B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		DF0FB0612BFCC1580019FE1B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DF239FFE2BFBC62500B496C0 /* iSchool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iSchool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF23A0012BFBC62500B496C0 /* iSchoolApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iSchoolApp.swift; sourceTree = "<group>"; };
 		DF23A0032BFBC62500B496C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 				DF23A00F2BFBC6B500B496C0 /* DataModel.xcdatamodeld */,
 				DF23A0072BFBC62600B496C0 /* Preview Content */,
 				DFA477BA2BFBC8A40041323C /* Root */,
+				DF0FB0612BFCC1580019FE1B /* README.md */,
 			);
 			path = iSchool;
 			sourceTree = "<group>";
